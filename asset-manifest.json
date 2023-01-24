@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tabs-Experience/static/css/main.d78d8cb4.css",
+    "main.js": "/Tabs-Experience/static/js/main.b7e49645.js",
+    "static/js/787.8b06b035.chunk.js": "/Tabs-Experience/static/js/787.8b06b035.chunk.js",
+    "index.html": "/Tabs-Experience/index.html",
+    "main.d78d8cb4.css.map": "/Tabs-Experience/static/css/main.d78d8cb4.css.map",
+    "main.b7e49645.js.map": "/Tabs-Experience/static/js/main.b7e49645.js.map",
+    "787.8b06b035.chunk.js.map": "/Tabs-Experience/static/js/787.8b06b035.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d78d8cb4.css",
+    "static/js/main.b7e49645.js"
+  ]
+}
